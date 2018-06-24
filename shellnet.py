@@ -1,6 +1,5 @@
-'''
-    Simple socket Backdoor
-'''
+#Simple socket Backdoor
+
  
 import socket
 import sys
