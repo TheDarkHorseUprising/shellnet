@@ -1,5 +1,5 @@
 # shellnet
-.A python2 backdoor you connect to over telnet.
-.On the target machine "python shellnet.py"
-.On your machine "telnet <target machine IP> 1337"
-.Now you have a shell :) easy.
+1)A python2 backdoor you connect to over telnet.
+2)On the target machine "python shellnet.py"
+3)On your machine "telnet <target machine IP> 1337"
+4)Now you have a shell :) easy.
